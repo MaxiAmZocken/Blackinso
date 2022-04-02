@@ -19,8 +19,6 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 [<img align="left" alt="Blackinso | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
 [<img align="left" alt="Blackinso | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
-<br/>
-
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
