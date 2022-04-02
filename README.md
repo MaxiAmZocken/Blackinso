@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+     <summary> <samp>📈 GitHub stats</samp></summary>
+<br/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=blackinso&count_private=true&show_icons=true)
+
 <!--
 **Blackinso/Blackinso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
