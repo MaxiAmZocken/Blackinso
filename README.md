@@ -9,6 +9,8 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 - 🌱 learning languages like Python
 - 🎮 playing and programming Videogames
 - 🖌  designing and sketching 
+- 
+![Naruto](https://user-images.githubusercontent.com/76791257/161395085-a1a3902f-b19f-40ca-ae05-036e580c0101.gif)
 
 ## Social Media
 
