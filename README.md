@@ -7,7 +7,7 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 
 - 🚲 mountainbiking with [Maxi_am_zocken] 
 - 🌱 learning languages like Python
-- 🎮 playing an programming Videogames
+- 🎮 playing and programming Videogames
 - 🖌  designing and sketching 
 
 ## Social Media
