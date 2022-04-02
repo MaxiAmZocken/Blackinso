@@ -17,7 +17,8 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 [<img align="left" alt="Blackinso | YouTube" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-youtube-play-100.png" />][youtube]
 [<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-twitter-100.png" />][twitter]
 [<img align="left" alt="Blackinso | Twitter" width="30px" src="https://github.com/Blackinso/icons/blob/main/icons8-steam-100.png" />][steam]
-[<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-discord-logo-100.png" />][discord] <br/>
+[<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-discord-logo-100.png" />][discord]
+[<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/komoot.png" />][komoot] <br/>
 
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
@@ -36,3 +37,4 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 [instagram]: https://instagram.com/Blackinso
 [discord]: https://discordapp.com/users/389046934473801728
 [steam]: https://steamcommunity.com/profiles/76561198825652859/
+[komoot]: https://www.komoot.de/user/1785249823543
