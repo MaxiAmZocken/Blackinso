@@ -18,7 +18,7 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 [<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-twitter-100.png" />][twitter]
 [<img align="left" alt="Blackinso | Steam" width="30px" src="https://github.com/Blackinso/icons/blob/main/icons8-steam-100.png" />][steam]
 [<img align="left" alt="Blackinso | Discord" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-discord-logo-100.png" />][discord]
-[<img align="left" alt="Blackinso | Komoot" width="20px" src="https://github.com/MaxiAmZocken/Resource/blob/main/komoot-1324440186245653802%20(Custom)%20(100x100).png" />][komoot] <br/>
+[<img align="left" alt="Blackinso | Komoot" width="20px" src="https://github.com/Blackinso/icons/blob/main/komoot-100.png" />][komoot] <br/>
 
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
