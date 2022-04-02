@@ -22,7 +22,7 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
-
+ 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blackinso&count_private=true&show_icons=true)
 
 <!-- Credit goes to https://github.com/shivammathur -->  
@@ -34,5 +34,5 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 [youtube]: https://www.youtube.com/channel/UCtDA9XYGnNGv6SGtn9Rt9kw
 [reddit]: https://reddit.com/user/Blackinso
 [instagram]: https://instagram.com/Blackinso
-[discord]: Discord.com/users/Blackinso#3257
-[steam]: https://steamcommunity.com/id/Blackinso/
+[discord]: https://discordapp.com/users/389046934473801728
+[steam]: https://steamcommunity.com/profiles/76561198825652859/
