@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<details>
-     <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
-
 - 🔭 I’m currently working on Maxi
 - 🌱 I’m currently learning Lenny
 - 👯 I’m looking to collaborate on Tims Oma
@@ -12,5 +8,10 @@
 - 📫 How to reach me: never
 - 😄 Pronouns:
 - ⚡ Fun fact: Tim ist dick
+
+
+<details>
+     <summary> <samp>📈 GitHub stats</samp></summary>
+<br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blackinso&count_private=true&show_icons=true)
