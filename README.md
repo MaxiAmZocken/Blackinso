@@ -11,7 +11,6 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 - 🌱 learning languages like Python
 - 🎮 playing and programming Videogames
 - 🖌  designing and sketching 
-- 
 
 ## Social Media
 
