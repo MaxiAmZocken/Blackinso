@@ -3,7 +3,7 @@
 I'm a german student, who don't realy know what he does, but from time to time i like to code some things.
 Maybe my stuff isn't that interesting, but i like to learn new thing.
  
-[<img align="right" alt="Blackinso | Instagram" width="30px" src=https://user-images.githubusercontent.com/76791257/161395085-a1a3902f-b19f-40ca-ae05-036e580c0101.gif />][instagram]
+[<img align="right" alt="Blackinso | Instagram" width="40px" src=https://user-images.githubusercontent.com/76791257/161395085-a1a3902f-b19f-40ca-ae05-036e580c0101.gif />][instagram]
 
 ## Things i like to:
 
