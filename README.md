@@ -12,12 +12,12 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 
 ## Social Media
 
-[<img align="left" alt="Blackinso | Instagram" width="22px" src="https://github.com/Blackinso/icons/blob/main/icons8-instagram-100.png" />][instagram]
-[<img align="left" alt="Blackinso | Reddit"  width="22px" src="https://github.com/Blackinso/icons/blob/main/icons8-reddit-128.png" />][reddit]
-[<img align="left" alt="Blackinso | YouTube" width="22px" src="https://github.com/Blackinso/icons/blob/main/icons8-youtube-play-100.png" />][youtube]
-[<img align="left" alt="Blackinso | Twitter" width="22px" src="https://github.com/Blackinso/icons/blob/main/icons8-twitter-100.png" />][twitter]
-[<img align="left" alt="Blackinso | Twitter" width="22px" src="https://github.com/Blackinso/icons/blob/main/icons8-steam-100.png" />][steam]
-[<img align="left" alt="Blackinso | Twitter" width="22px" src="https://github.com/Blackinso/icons/blob/main/icons8-discord-logo-100.png" />][discord] <br/>
+[<img align="left" alt="Blackinso | Instagram" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-instagram-100.png" />][instagram]
+[<img align="left" alt="Blackinso | Reddit"  width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-reddit-128.png" />][reddit]
+[<img align="left" alt="Blackinso | YouTube" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-youtube-play-100.png" />][youtube]
+[<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-twitter-100.png" />][twitter]
+[<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-steam-100.png" />][steam]
+[<img align="left" alt="Blackinso | Twitter" width="28px" src="https://github.com/Blackinso/icons/blob/main/icons8-discord-logo-100.png" />][discord] <br/>
 
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
