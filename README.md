@@ -25,6 +25,7 @@ Maybe my stuff isn't that interesting, but i like to learn new thing.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blackinso&count_private=true&show_icons=true)
 
+<!-- Credit goes to https://github.com/shivammathur -->  
 
 </details>
 
